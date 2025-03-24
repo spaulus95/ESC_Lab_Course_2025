@@ -42,7 +42,7 @@ pip install pandas numpy matplotlib scipy
 - **Plotting:** Matplotlib is used to generate line plots of fluorescence recovery over time.
 - **Curve Fitting:** Non-linear curve fitting is applied using `scipy.optimize.curve_fit`.
 - **Parameter Calculation:** Extracted parameters include recovery half-time and fractions.
-- **Visualization:** Results are annotated on the plot with color-coded lines.
+- **Visualization:** Results are annotated on the plot with color-coded lines. The calculated parameters are presented in a table at the end.
 
 ## Example Output
 
@@ -55,7 +55,7 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 ## Acknowledgments
 
-Special thanks to the Leonhardt Group for Human Biology and Bioimaging for hosting the Embryonic Stem Cells Lab course 2025 and providing the data and supporting the analysis.
+We thank the Leonhardt Group for Human Biology and Bioimaging for hosting the 2025 Embryonic Stem Cells Lab course, providing the data, and supporting the analysis. Special thanks to Dr. Christopher Mulholland for his guidance and support throughout the course.
 
 For further questions, please reach out to the repository owner or contributors.
 
